@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RASHEED YEKINI</h1>
-<h3 align="center">A passionate frontend developer from Nigeria (a JS enthusiast)</h3>
+<h3 align="center">A passionate frontend developer, I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. (a JS enthusiast)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priest24&label=Profile%20views&color=0e75b6&style=flat" alt="priest24" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/royedmund4" target="blank"><img src="https://img.shields.io/twitter/follow/royedmund4?logo=twitter&style=for-the-badge" alt="royedmund4" /></a> </p>
 
-- 🔭 I’m currently working on **a web app**
+- 🔭 I’m currently working on ** some web app**
 
 - 🌱 I’m currently learning **PHP, REACT.JS AND NODE.JS**
 
-- 👯 I’m looking to collaborate on **with anyone**
+- 👯 I’m looking to collaborate **with anyone**
 
 - 🤝 I’m looking for help with **(still learning)**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML, CSS AND JS**
 
-- 📫 How to reach me **royedmund15@gmail.com and @royedmund4 on twitter**
+- 📫 How to reach me **royedmund15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priest24&show_icons=true&locale=en&layout=compact" alt="priest24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priest24&show_icons=true&locale=en" alt="priest24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priest24&" alt="priest24" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priest24&theme=highcontrast)](https://git.io/streak-stats)
