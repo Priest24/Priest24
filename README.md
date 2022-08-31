@@ -1,3 +1,6 @@
+<img src="./![banner](https://user-images.githubusercontent.com/69377706/187609766-2bab3b6e-207b-4121-98c9-2494ef75e400.png)
+![banner](https://user-images.githubusercontent.com/69377706/187609899-b744dd77-9b35-4d16-86a1-68b4f8aa6d62.png)
+"
 <h1 align="center">Hi 👋, I'm RASHEED YEKINI</h1>
 <h3 align="center">A passionate frontend developer, I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. (a JS enthusiast)</h3>
 
@@ -7,13 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/royedmund4" target="blank"><img src="https://img.shields.io/twitter/follow/royedmund4?logo=twitter&style=for-the-badge" alt="royedmund4" /></a> </p>
 
-- 🔭 I’m currently working on ** some web app**
-
 - 🌱 I’m currently learning **PHP, REACT.JS AND NODE.JS**
-
-- 👯 I’m looking to collaborate **with anyone**
-
-- 🤝 I’m looking for help with **(still learning)**
 
 - 👨‍💻 some of my projects are available at [https://codepen.io/priest24](https://codepen.io/priest24)
 
