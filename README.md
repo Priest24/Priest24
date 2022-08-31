@@ -29,5 +29,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priest24&show_icons=true&locale=en&layout=compact" alt="priest24" /></p>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priest24&theme=highcontrast)](https://git.io/streak-stats)
